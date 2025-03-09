@@ -14,7 +14,7 @@ redirect_from:
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
 
 
-I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). I completed my bachelor's degree in Physics from Shenzhen University and my master's degree in Software Engineering from National Computer System Engineering Research Institute of China (a joint program with UCAS). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An.
+I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An.
 
 My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
@@ -47,7 +47,7 @@ First-author Publications:
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
-  [[Code](https://github.com/zerohd4869/InfoMTL)]
+  [[Paper](http://arxiv.org/abs/2503.04667)] [[Code](https://github.com/zerohd4869/InfoMTL)]
   
 - **Representation Learning with Conditional Information Flow Maximization**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) \
@@ -154,6 +154,6 @@ Co-author Publications:
 
 
 # 📝 Academic Services
-- Area Chair: ACL ARR 2023
+- Area Chair: ACL ARR 2025
 - Conference Program Committee / Reviewer: ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, KDD 2025, ICLR 2025, ICML 2025, etc.
-- Journal Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 	Engineering Applications of Artificial Intelligence (EAAI)
+- Journal Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Transactions on Mobile Computing (TMC), Engineering Applications of Artificial Intelligence (EAAI)
