@@ -28,14 +28,14 @@ My research interests include natural language processing and machine learning. 
   - Trustworthy large language models (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
+- *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
+- *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
-- *Dec. 2024*: 🎖 I received the Director Scholarship (Excellent Prize).
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
 - *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
 - *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024. Congrats to Lingwei Wei!
 - *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
-- *Dec. 2023*: 📚 I served as an Area Chair for ACL ARR 2023.
 - *Jul. 2023*: 🏆 I received the Best System Award at SemEval 2023 in Task 12.
 - *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.
 
@@ -47,7 +47,7 @@ First-author Publications:
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
-  [[Paper](http://arxiv.org/abs/2503.04667)] [[Code](https://github.com/zerohd4869/InfoMTL)]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)] [[Code](https://github.com/zerohd4869/InfoMTL)]
   
 - **Representation Learning with Conditional Information Flow Maximization**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) \
