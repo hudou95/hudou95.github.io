@@ -16,7 +16,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An.
 
-My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on representation learning principles and approaches to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
+My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on representation learning principles and techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
 # Research Interests
 - **Representation Learning**
@@ -27,7 +27,7 @@ My research interests include natural language processing and machine learning. 
   - Trustworthy large language models (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
-- *May. 2024*: 🎉 One paper is accepted at ACL 2025.
+- *May. 2025*: 🎉 One paper is accepted at ACL 2025.
 - *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
 - *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
