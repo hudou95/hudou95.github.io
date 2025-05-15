@@ -16,8 +16,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). Before starting my Ph.D., I also worked as an algorithm researcher at Ping An.
 
-My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on developing principled representation learning techniques to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
-
+My research interests include natural language processing and machine learning. And my research goal is to enable AI to better understand and generate human language. To achieve this, I am currently focused on representation learning principles and approaches to enhance the generalization, robustness, efficiency, and trustworthiness of language models.
 
 # Research Interests
 - **Representation Learning**
@@ -28,6 +27,7 @@ My research interests include natural language processing and machine learning. 
   - Trustworthy large language models (truthfulness, safety, fairness), misinformation detection, harmful content detection
 
 # 🔥 News
+- *May. 2024*: 🎉 One paper is accepted at ACL 2025.
 - *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
 - *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
@@ -36,7 +36,7 @@ My research interests include natural language processing and machine learning. 
 - *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
 - *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024. Congrats to Lingwei Wei!
 - *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
-- *Jul. 2023*: 🏆 I received the Best System Award at SemEval 2023 in Task 12.
+- *Jul. 2023*: 🏆 I received the Best System Award at Afrisenti-SemEval 2023.
 - *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.
 
 
@@ -44,6 +44,9 @@ My research interests include natural language processing and machine learning. 
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
 
 First-author Publications:
+
+- **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*.
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
