@@ -27,7 +27,7 @@ My research interests include natural language processing and machine learning. 
   - Sentiment analysis, harmful content detection, misinformation detection
 
 # 🔥 News
-- *May. 2025*: 🎉 One paper is accepted at ACL 2025.
+- *May. 2025*: 🎉 Two papers are accepted at ACL 2025.
 - *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
 - *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
@@ -43,11 +43,14 @@ My research interests include natural language processing and machine learning. 
 
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
 
-First-author Publications:
+First-author/Corresponding-author Publications:
 
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*.
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) 
 
+- **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
+  Lingwei Wei, **Dou Hu**(\*), Wei Zhou, Philip S. Yu, Songlin Hu(\*). *Findings of ACL 2025*.
+  
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)] [[Code](https://github.com/zerohd4869/InfoMTL)]
@@ -89,8 +92,8 @@ First-author Publications:
   [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei\*, **Dou Hu**\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)] (* denotes co-first authors)
+  Lingwei Wei\*, **Dou Hu**(\*), Wei Zhou(\*), Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
+  [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 
 Co-author Publications:
