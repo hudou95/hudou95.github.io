@@ -92,7 +92,7 @@ First-author/Corresponding-author Publications:
   [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei\*, **Dou Hu**(\*), Wei Zhou(\*), Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
+  Lingwei Wei, **Dou Hu**(\*), Wei Zhou(\*), Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 
