@@ -49,7 +49,7 @@ First-author/Corresponding-author Publications:
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) 
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
-  Lingwei Wei, **Dou Hu**(\*), Wei Zhou, Philip S. Yu, Songlin Hu(\*). *Findings of ACL 2025*.
+  Lingwei Wei, **Dou Hu**(\*), Wei Zhou, Philip S. Yu, Songlin Hu(\*). *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
   
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
@@ -88,7 +88,7 @@ First-author/Corresponding-author Publications:
   [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
 
 - **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021* (<font color="red">CCF-A Chinese</font>) \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021*. (<font color="red">CCF-A Chinese</font>) \
   [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
