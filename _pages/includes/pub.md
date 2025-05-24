@@ -2,15 +2,77 @@
 
 ## General Representation Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/vip-mtl.png' alt="sym" width="100%"></div></div>
+
+
+<style>
+/* 统一图片容器尺寸 */
+.paper-box-image {
+  width: 250px;      /* 固定宽度 */
+  height: 180px;     /* 固定高度 */
+  overflow: hidden;  /* 隐藏超出部分 */
+  position: relative;
+}
+
+/* 控制图片始终填满容器 */
+.paper-box-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 保持比例并填满容器（可换为 contain 避免裁剪） */
+  object-position: center; /* 图片居中显示 */
+}
+
+/* 标签位置调整 */
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1; /* 确保标签在图片上方 */
+}
+</style>
+
+<!-- 示例区块（其他区块结构相同） -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025</div>
+      <img src='images/paper/vip-mtl.png' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**.
+    **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) 
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025</div>
+      <img src='images/paper/vip-mtl.png' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**.
+    **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) 
+  </div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/infomtl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. \
-**Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) 
+- **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. \
+**Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) \
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)] [[Code](https://github.com/zerohd4869/InfoMTL)]
 
 </div>
 </div>
 
+
+
+old:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper/infomtl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
