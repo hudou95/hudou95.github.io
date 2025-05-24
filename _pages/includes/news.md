@@ -1,0 +1,12 @@
+# 🔥 News
+- *May. 2025*: 🎉🎉 Two papers are accepted at ACL 2025.
+- *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
+- *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
+- *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
+- *Nov. 2024*: 🎖 I received the National Scholarship.
+- *May. 2024*: 🎉 One paper is accepted at ACL 2024.
+- *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!
+- *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024. Congrats to Lingwei Wei!
+- *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
+- *Jul. 2023*: 🏆 I received the Best System Award at Afrisenti-SemEval 2023.
+- *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.

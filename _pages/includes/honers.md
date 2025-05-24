@@ -1,0 +1,12 @@
+# 🎖 Honors and Awards
+- Baidu Scholarship (Global Top 40), Baidu, 2024
+- Director Scholarship (Excellent Prize), IIE CAS, 2024
+- National Scholarship, China’s Ministry of Education, 2024
+- Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
+- Merit Student, University of Chinese Academy of Sciences, 2023-2024
+- Best System Award, Afrisenti-SemEval 2023 (Primary Contributor)
+- First Prize, Sentiment Analysis for African Languages Task (1/213, Team Leader), SemEval 2023
+- First Prize, Patronizing and Condescending Language Detection Task (1/300, Team Leader), SemEval 2022
+- First Prize, Intended Sarcasm Detection Task, SemEval 2022
+- First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022
+- Runner-up, Identifying Plausible Clarifications Task, SemEval 2022
