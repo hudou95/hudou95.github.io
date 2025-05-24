@@ -31,7 +31,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper/spc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/spc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Structured Probabilistic Coding**. \
@@ -41,7 +41,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper/varmae.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/paper/varmae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  \
