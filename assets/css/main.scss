@@ -57,8 +57,9 @@
         order: 2;
         img {
             max-width: 400px;
+            max-height: 200px;
             box-shadow: 3px 3px 6px #888;
-            object-fit: contain;  // cover, contain
+            object-fit: contain;
         }
     }
     
@@ -69,9 +70,9 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
+            justify-content: center;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 30%;
             order: 1;
         }
         
