@@ -7,24 +7,24 @@
 
 # Site Settings
 title                    : "Dou Hu"
-description              : ""
+description              : "Ph.D. candidate at UCAS. Research interests include ML and NLP."
 repository               : "https://github.com/zerohd4869"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-baidu_site_verification  :
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Dou Hu"
   avatar           : "images/hudou_20230928.jpg"
-  bio              : ""
-  location         : "Beijing"
+  bio              :
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cSUULYAAAAAJ"
@@ -43,12 +43,12 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/262/5788-1.html"
   orcid            : "https://orcid.org/0000-0001-7790-8568"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 

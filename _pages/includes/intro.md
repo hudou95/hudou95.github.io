@@ -4,7 +4,7 @@ My research interests include natural language processing and machine learning. 
 
 
 # Research Interests
-- **Representation Learning**
+- **General Representation Learning**
   - Learning theory and principle, generalization and robustness, multi-task learning
 - **Trustworthy Large Language Models**
   - Truthfulness, safety, fairness
