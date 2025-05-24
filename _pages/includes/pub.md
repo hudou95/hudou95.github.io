@@ -114,10 +114,9 @@
   Lingwei Wei, **Dou Hu**(\*), Wei Zhou(\*), Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
-- **SLK-NER: Exploiting Second-order Lexicon Knowledge for Chinese NER**
-  **Dou Hu**, Lingwei Wei. *SEKE 2020*  \
+- **SLK-NER: Exploiting Second-order Lexicon Knowledge for Chinese NER** \
+  **Dou Hu**, Lingwei Wei. *SEKE 2020*.  \
   [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
-
 
 
 
