@@ -3,7 +3,7 @@
 ## General Representation Learning
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper/vip=mtl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/vip-mtl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. \
@@ -115,8 +115,8 @@
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 - **SLK-NER: Exploiting Second-order Lexicon Knowledge for Chinese NER**
-  ``Dou Hu``, Lingwei Wei. \
-  ``SEKE 2020 (Oral)`` [[Paper](https://arxiv.org/abs/2007.08416)] 
+  **Dou Hu**, Lingwei Wei. *SEKE 2020*  \
+  [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
 
 
 
