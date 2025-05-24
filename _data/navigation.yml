@@ -8,15 +8,16 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+#    url: "/#-selected-publications-full-list"
+  -
+  - title: "Industry Applications"
+    url: "/#-industry-applications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Academic Services"
+    url: "/#-academic-services"
