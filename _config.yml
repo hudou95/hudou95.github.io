@@ -9,7 +9,7 @@
 title                    : "Dou Hu"
 description              : "Ph.D. candidate at UCAS. Research interests include ML and NLP."
 repository               : "https://github.com/zerohd4869"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cSUULYAAAAAJ"
-  email            : "hudou@iie.ac.cn"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :

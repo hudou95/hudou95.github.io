@@ -1,6 +1,7 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
-
-## General Representation Learning
+(\* denotes equal contribution, \# represents corresponding author)
+ 
+## Machine Learning for NLP
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/vip-mtl.png' alt="sym" width="100%"></div></div>
@@ -56,7 +57,7 @@
 ## NLP Applications
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
-  Lingwei Wei, **Dou Hu**(\*), Wei Zhou, Philip S. Yu, Songlin Hu(\*). *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
+  Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu(\#). *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
  
 - **Transferring Structure Knowledge: A New Task to Fake News Detection Towards Cold-Start Propagation**. \
   Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *ICASSP 2024*. (<font color="red">CCF-B</font>) \
@@ -111,7 +112,7 @@
   [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei, **Dou Hu**(\*), Wei Zhou(\*), Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
+  Lingwei Wei\*, **Dou Hu**\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 - **SLK-NER: Exploiting Second-order Lexicon Knowledge for Chinese NER** \
