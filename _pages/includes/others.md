@@ -10,25 +10,23 @@
 
 
 # 🎖 Honors and Awards
-- Baidu Scholarship (Global Top 40), Baidu, 2024
+- Baidu Scholarship Nominee (Global Top 40), Baidu, 2024
 - Director Scholarship (Excellent Prize), IIE CAS, 2024
 - National Scholarship, China’s Ministry of Education, 2024
-- Pacemaker to Merit Student, University of Chinese Academy of Sciences, 2023-2024
-- Merit Student, University of Chinese Academy of Sciences, 2023-2024
-- Best System Award, Afrisenti-SemEval 2023 (Primary Contributor)
-- First Prize, Sentiment Analysis for African Languages Task (1/213, Team Leader), SemEval 2023
-- First Prize, Patronizing and Condescending Language Detection Task (1/300, Team Leader), SemEval 2022
-- First Prize, Intended Sarcasm Detection Task, SemEval 2022
-- First Prize, Multimedia Automatic Misogyny Identification Task, SemEval 2022
-- Runner-up, Identifying Plausible Clarifications Task, SemEval 2022
-
+- Pacemaker to Merit Student, UCAS, 2023-2024
+- Best System Award (Primary Contributor), Afrisenti-SemEval 2023
+- 1st Place (1/213, Team Leader), Sentiment Analysis for African Languages Task, SemEval 2023
+- 1st Place (1/300, Team Leader), Patronizing and Condescending Language Detection Task, SemEval 2022
+- 1st Place, Intended Sarcasm Detection Task, SemEval 2022
+- 1st Place, Multimedia Automatic Misogyny Identification Task, SemEval 2022
+- 2nd, Identifying Plausible Clarifications Task, SemEval 2022
 
 # 💬 Invited Talks
-- *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security" (信息论表示学习及其在信息安全领域的应用), IIE, CAS.
+- *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security" (信息论表示学习及其在内容安全领域的应用), IIE, CAS.
 - *May 2025*, Invited talk, "An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding", The 7th Academic Forum on Artificial Intelligence of Beijing Universities.
 - *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field" (信息论表示学习及其在传媒领域的应用), Communication University of China.
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning for Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
-- *Jan. 2024*, Pre-talk Presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
+- *Jan. 2024*, Invited talk, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
 - *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
 - *Sep. 2023*, Youth PhD Talk, "Supervised Adversarial Contrastive Learning", AI TIME.
 
@@ -47,5 +45,5 @@
     - Engineering Applications of Artificial Intelligence (EAAI)
     - IEEE Transactions on Multimedia (TMM)
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-    - Transactions on Mobile Computing (TMC)
+    - IEEE Transactions on Mobile Computing (TMC)
     
