@@ -13,5 +13,5 @@ Concat: hudou [AT] iie.ac.cn
 - **Trustworthy Large Language Models**
   - Truthfulness, Safety, Fairness
 - **NLP Applications**
-  - Sentiment Analysis, Harmful Content Detection, Misinformation Detection
+  - Sentiment Analysis, Misinformation Detection, Harmful Content Detection
 
