@@ -10,6 +10,7 @@
 
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
 **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
+[[Paper](https://openreview.net/forum?id=lDO308OLjP)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
 
 </div>
 </div>

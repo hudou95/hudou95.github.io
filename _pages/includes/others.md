@@ -10,6 +10,7 @@
 
 
 # 🎖 Honors and Awards
+
 - Baidu Scholarship Nominee (Global Top 40), Baidu, 2024
 - Director Scholarship (Excellent Prize), IIE CAS, 2024
 - National Scholarship, China’s Ministry of Education, 2024
@@ -19,7 +20,7 @@
 - 1st Place (1/300, Team Leader), Patronizing and Condescending Language Detection Task, SemEval 2022
 - 1st Place, Intended Sarcasm Detection Task, SemEval 2022
 - 1st Place, Multimedia Automatic Misogyny Identification Task, SemEval 2022
-- 2nd, Identifying Plausible Clarifications Task, SemEval 2022
+- 2nd Place, Identifying Plausible Clarifications Task, SemEval 2022
 
 # 💬 Invited Talks
 - *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security" (信息论表示学习及其在内容安全领域的应用), IIE, CAS.
