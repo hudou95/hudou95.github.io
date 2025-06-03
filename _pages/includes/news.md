@@ -1,6 +1,5 @@
 # 🔥 News
 - *May. 2025*: 🎉🎉 Two papers are accepted at ACL 2025.
-- *Feb. 2025*: 📚 I served as an Area Chair for ACL ARR 2025.
 - *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
 - *Nov. 2024*: 🎖 I received the National Scholarship.

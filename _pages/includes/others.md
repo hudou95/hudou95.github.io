@@ -35,13 +35,9 @@
 # 📝 Academic Services
 
 - Area Chair:
-    - ACL ARR 2025
+    - ACL ARR: ACL 2025, EMNLP 2025
 - Conference Reviewer or Program Committee Member:
-    - ACL 2023/2024
-    - EMNLP 2023/2024
-    - NAACL 2024
-    - NeurIPS 2024
-    - ICLR 2025
+    - ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, ICLR 2025
 - Journal Reviewer:
     - Engineering Applications of Artificial Intelligence (EAAI)
     - IEEE Transactions on Multimedia (TMM)
