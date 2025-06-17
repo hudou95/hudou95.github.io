@@ -11,3 +11,4 @@
 - *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).
 - *Jul. 2023*: 🏆 I received the Best System Award at Afrisenti-SemEval 2023.
 - *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.
+- *Mar. 2023*: 🏆 We won 1st Place in SemEval 2023 Task 12.
