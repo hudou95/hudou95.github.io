@@ -1,6 +1,8 @@
 # 🔥 News
+
+- *Jun. 2025*: 🎖 I received the CAS Presidential Scholarship (Special Prize).
 - *May. 2025*: 🎉🎉 Two papers are accepted at ACL 2025.
-- *Jan. 2025*: 🎖 I received the Baidu Scholarship (Global Top 40).
+- *Jan. 2025*: 🎖 I received the Baidu Scholarship Nominee (Global Top 40).
 - *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.
 - *Nov. 2024*: 🎖 I received the National Scholarship.
 - *May. 2024*: 🎉 One paper is accepted at ACL 2024.
