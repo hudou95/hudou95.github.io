@@ -11,10 +11,9 @@
 
 # 🎖 Honors and Awards
 
+- CAS Presidential Scholarship (Special Prize), CAS, 2025 
 - Baidu Scholarship Nominee (Global Top 40), Baidu, 2024
-- Director Scholarship (Excellent Prize), IIE CAS, 2024
 - National Scholarship, China’s Ministry of Education, 2024
-- Pacemaker to Merit Student, UCAS, 2023-2024
 - Best System Award (Primary Contributor), Afrisenti-SemEval 2023
 - 1st Place (1/213, Team Leader), Sentiment Analysis for African Languages Task, SemEval 2023
 - 1st Place (1/300, Team Leader), Patronizing and Condescending Language Detection Task, SemEval 2022
