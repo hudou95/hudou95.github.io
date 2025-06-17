@@ -1,4 +1,15 @@
 <script src="assets/js/main.min.js"></script>
 
-{% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
+<!--{% include analytics.html %}-->
+<!--{% include fetch_google_scholar_stats.html %}-->
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+    window.onload = function() {
+        var siteUV = document.getElementById('busuanzi_value_site_uv').innerText;
+        var sitePV = document.getElementById('busuanzi_value_site_pv').innerText;
+        console.log('Visitors:', siteUV);
+        console.log('Total visits:', sitePV);
+    };
+</script>
