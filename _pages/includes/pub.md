@@ -21,7 +21,7 @@
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. <br>
 **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)] [[Code](https://github.com/zerohd4869/InfoMTL)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
 
 </div>
 </div>

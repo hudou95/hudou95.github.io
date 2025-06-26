@@ -10,16 +10,17 @@
 
 
 # 🎖 Honors and Awards
-
-- CAS Presidential Scholarship (Special Prize), CAS, 2025 
+- Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
+- CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖), CAS, 2025
 - Baidu Scholarship Nominee (Global Top 40), Baidu, 2024
 - National Scholarship, China’s Ministry of Education, 2024
-- Best System Award (Primary Contributor), Afrisenti-SemEval 2023
-- 1st Place (1/213, Team Leader), Sentiment Analysis for African Languages Task, SemEval 2023
-- 1st Place (1/300, Team Leader), Patronizing and Condescending Language Detection Task, SemEval 2022
+- Best System Award (First Contributor), Afrisenti-SemEval 2023
+- 1st Place (1/213, First Contributor), Sentiment Analysis for African Languages Task, SemEval 2023
+- 1st Place (1/300, First Contributor), Patronizing and Condescending Language Detection Task, SemEval 2022
 - 1st Place, Intended Sarcasm Detection Task, SemEval 2022
 - 1st Place, Multimedia Automatic Misogyny Identification Task, SemEval 2022
 - 2nd Place, Identifying Plausible Clarifications Task, SemEval 2022
+
 
 # 💬 Invited Talks
 - *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security" (信息论表示学习及其在内容安全领域的应用), IIE, CAS.
