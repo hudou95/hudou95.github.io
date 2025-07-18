@@ -12,7 +12,7 @@
 # 🎖 Honors and Awards
 - Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
 - CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖), CAS, 2025
-- Baidu Scholarship Nominee (Global Top 40), Baidu, 2024
+- Baidu Scholarship Nominee - Global Top 40, Baidu, 2024
 - National Scholarship, China’s Ministry of Education, 2024
 - Best System Award (First Contributor), Afrisenti-SemEval 2023
 - 1st Place (1/213, First Contributor), Sentiment Analysis for African Languages Task, SemEval 2023
