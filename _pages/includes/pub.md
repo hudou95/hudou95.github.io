@@ -10,7 +10,7 @@
 
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
 **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
-[[Paper](https://openreview.net/forum?id=lDO308OLjP)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
+[[Paper](https://aclanthology.org/2025.acl-long.975/)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
 
 </div>
 </div>
@@ -89,6 +89,7 @@
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
   Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
+  [[Paper](https://aclanthology.org/2025.findings-acl.505/)]
  
 - **Transferring Structure Knowledge: A New Task to Fake News Detection Towards Cold-Start Propagation**. \
   Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *ICASSP 2024*. (<font color="red">CCF-B</font>) \

@@ -23,21 +23,22 @@
 
 
 # 💬 Invited Talks
-- *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security" (信息论表示学习及其在内容安全领域的应用), IIE, CAS.
-- *May 2025*, Invited talk, "An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding", The 7th Academic Forum on Artificial Intelligence of Beijing Universities.
-- *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field" (信息论表示学习及其在传媒领域的应用), Communication University of China.
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding" (面向自然语言理解的信息论表示学习), School of Artificial Intelligence, Beijing Normal University.
-- *Jan. 2024*, Invited talk, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
-- *Jan. 2024*, Youth PhD Talk, "Structured Probabilistic Coding", AI TIME.
-- *Sep. 2023*, Youth PhD Talk, "Supervised Adversarial Contrastive Learning", AI TIME.
+- *Jul. 2025*, Paper presentation, "Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding", JIQIZHIXIN.
+- *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security", IIE, CAS.
+- *May 2025*, Paper presentation, "An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding", The 7th Academic Forum on Artificial Intelligence of Beijing Universities.
+- *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field", Communication University of China.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding", School of Artificial Intelligence, Beijing Normal University.
+- *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
+- *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", AI TIME.
+- *Sep. 2023*, Paper presentation, "Supervised Adversarial Contrastive Learning", AI TIME.
 
 
 # 📝 Academic Services
 
 - Area Chair:
-    - ACL ARR: ACL 2025, EMNLP 2025
+    - ACL Rolling Review: ACL 2025, EMNLP 2025
 - Conference Reviewer or Program Committee Member:
-    - ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, ICLR 2025
+    - ACL 2023/2024, EMNLP 2023/2024, NAACL 2024, NeurIPS 2024, ICLR 2025, AAAI 2025
 - Journal Reviewer:
     - Engineering Applications of Artificial Intelligence (EAAI)
     - IEEE Transactions on Multimedia (TMM)
