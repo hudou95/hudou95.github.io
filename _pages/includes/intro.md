@@ -1,4 +1,4 @@
-I am currently an Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS). I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (UCAS) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
+I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (UCAS) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
 I completed my bachelor's degree from Shenzhen University and my master's degree from National Computer System Engineering Research Institute of China (joint program with UCAS). 
 Prior to my Ph.D., I worked as an Algorithm Researcher at Ping An.
 
