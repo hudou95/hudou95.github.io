@@ -4,7 +4,7 @@ Prior to my Ph.D., I worked as an Algorithm Researcher at Ping An.
 
 My research interests include natural language processing and machine learning. 
 My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
-To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, efficiency, and trustworthiness, particularly in information-theoretic representation learning and trustworthy large language models.  
+To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, efficiency, and trustworthiness, particularly in representation learning theory and trustworthy large language models.  
 
 
 Concat: hudou [AT] iie.ac.cn
