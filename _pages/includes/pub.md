@@ -85,7 +85,7 @@
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
 
-**Misinformation & Harmful Content Detection**:
+**Content Moderation & Safety**:
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
   Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
