@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dou Hu"
-description              : "Assistant Professor @ IIE CAS" #"Ph.D. at UCAS and IIE CAS. Research interests include NLP and ML."
+description              : "Ph.D. at UCAS and IIE CAS. Research interests include NLP and ML." #"Assistant Professor @ IIE CAS"
 repository               : "https://github.com/zerohd4869"
 google_scholar_stats_use_cdn : false
 
