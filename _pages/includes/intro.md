@@ -2,6 +2,7 @@ I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (U
 I completed my bachelor's degree at Shenzhen University and my master's degree at the National Computer System Engineering Research Institute of China (a joint program with UCAS). 
 Prior to my Ph.D. studies, I worked as an Algorithm Researcher at Ping An of China.
 
+
 My research interests include natural language processing and machine learning. 
 My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
 To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, trustworthiness, and safety, particularly in representation learning theory and trustworthy large language models (LLMs).  
