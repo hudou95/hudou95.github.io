@@ -58,7 +58,7 @@
 
 ## Representation Learning for Trustworthy LLMs
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
-  **Haonan Sheng, **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
+  Haonan Sheng, **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
  
 
 
