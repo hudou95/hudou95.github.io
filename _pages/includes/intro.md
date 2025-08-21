@@ -13,12 +13,11 @@ Concat: hudou [AT] iie.ac.cn
 # Research Interests
 - **Machine Learning for NLP**
   - Information-theoretic Representation Learning
-  - Probabilistic Representation Learning
-  - Multi-task Representation Learning
+  - Probabilistic Methods & Causal Reasoning
   - Generalization & Robustness of Language Models
 - **Representation Learning for Trustworthy LLMs**
   - Truthfulness, Safety, Fairness of LLMs
-  - Societal Considerations of Representation Learning
+  - Societal Considerations of LLM Representations
 - **NLP Applications: Social Media Analysis and AI Safety**
   - Sentiment & Emotion Analysis
   - Content Moderation & Safety
