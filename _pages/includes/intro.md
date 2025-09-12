@@ -7,7 +7,7 @@ My research goal is to develop more intelligent, efficient, and trustworthy AI s
 To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, trustworthiness, and safety, particularly in representation learning theory and trustworthy large language models (LLMs).  
 
 
-Concat: hudou [AT] iie.ac.cn
+Concat: hudou95 [AT] gmail.com
 
 # Research Interests
 - **Machine Learning for NLP**
