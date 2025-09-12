@@ -1,6 +1,5 @@
-I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
-I completed my bachelor's degree at Shenzhen University and my master's degree at the National Computer System Engineering Research Institute of China (a joint program with UCAS). 
-Prior to my Ph.D. studies, I worked as an Algorithm Researcher at Ping An of China.
+I am Dou Hu, an Assistant Professor at the State Key Laboratory of Media Convergence and Communication, Communication University of China (CUC). 
+Before that, I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS), under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
 
 
 My research interests include natural language processing and machine learning. 
@@ -15,9 +14,7 @@ Concat: hudou [AT] iie.ac.cn
   - Information-theoretic Representation Learning
   - Probabilistic Methods & Causal Reasoning
   - Generalization & Robustness of Language Models
-- **Representation Learning for Trustworthy LLMs**
-  - Truthfulness, Safety, Fairness of LLMs
-  - Societal Considerations of LLM Representations
+  - Representation Learning for Trustworthy LLMs
 - **NLP Applications: Social Media Analysis and AI Safety**
   - Sentiment & Emotion Analysis
   - Content Moderation & Safety
