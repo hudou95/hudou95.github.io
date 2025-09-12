@@ -1,9 +1,13 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
-(\* denotes equal contribution, \# represents corresponding author)
+(\# represents corresponding author, \* denotes equal contribution)
  
  
 ## Machine Learning for NLP
 
+
+- **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
+  Haonan Sheng, **Dou Hu**\#, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
+ 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/vip-mtl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,10 +60,6 @@
 </div>
 </div>
 
-## Representation Learning for Trustworthy LLMs
-- **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
-  Haonan Sheng, **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
- 
 
 
 ## NLP Applications
