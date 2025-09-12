@@ -9,56 +9,29 @@
   Haonan Sheng, **Dou Hu**\#, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/paper/vip-mtl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
 **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
 [[Paper](https://aclanthology.org/2025.acl-long.975/)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper/infomtl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. <br>
 **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper/cifm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **Representation Learning with Conditional Information Flow Maximization**. <br>
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) <br>
   [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
   
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/spc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **Structured Probabilistic Coding**. <br>
   **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A, Oral</font>) <br>
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29142)] [[Code](https://github.com/zerohd4869/SPC)]
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/paper/varmae.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  <br>
   **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) <br>
   [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
-
-</div>
-</div>
 
 
 
