@@ -1,6 +1,6 @@
 # 📈 Industry Applications
 - **Galaxy Generative AI Safety Evaluation Platform**, IIE, CAS, 2023-2025. \
-  We developed a comprehensive safety evaluation platform for evaluating LLMs in China. The platform leverages three advanced representation learning techniques, including **Supervised Adversarial Contrastive Learning** (Hu et al., 2023a) and **Structured Probabilistic Coding** (Hu et al., 2023b), to achieve highly generalized and effective risk identification in generated content. It has generated over 100 automated risk reports for more than 60 mainstream LLMs in China, with detection performance significantly surpassing that of Google/OpenAI APIs.
+  We developed a comprehensive safety evaluation platform for evaluating LLMs in China. The platform leverages two representation learning techniques, including **Supervised Adversarial Contrastive Learning** (Hu et al., 2023a) and **Structured Probabilistic Coding** (Hu et al., 2023b), to achieve highly generalized and effective risk identification in generated content. It has generated over 100 automated risk reports for more than 60 mainstream LLMs in China, with detection performance significantly surpassing that of Google/OpenAI APIs.
 
 - **AI Cloud Interview Platform**, Ping An Life Insurance, 2021-2022.  \
   We developed an AI interview platform for training recruitment and employee. The platform use multi-task learning techniques for efficient model training and inference, enabling better intent understanding and interview evaluation. It has supported over 20 million interviews, totaling 3.4 million hours, and provided annual support for 4.72 million recruitment interviews.
@@ -21,15 +21,10 @@
 
 
 # 💬 Invited Talks
-- *Jul. 2025*, Paper presentation, "Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding", JIQIZHIXIN.
 - *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Information Security", IIE, CAS.
-- *May 2025*, Paper presentation, "An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding", The 7th Academic Forum on Artificial Intelligence of Beijing Universities.
 - *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field", Communication University of China.
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding", School of Artificial Intelligence, Beijing Normal University.
+- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding", Beijing Normal University.
 - *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
-- *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", AI TIME.
-- *Sep. 2023*, Paper presentation, "Supervised Adversarial Contrastive Learning", AI TIME.
-
 
 # 📝 Academic Services
 
