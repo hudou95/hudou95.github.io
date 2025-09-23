@@ -10,8 +10,8 @@ main:
 #    url: "/#-publications"
     url: "/#-selected-publications-full-list"
 
-  - title: "Industry Applications"
-    url: "/#-industry-applications"
+#  - title: "Industry Applications"
+#    url: "/#-industry-applications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

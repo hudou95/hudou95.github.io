@@ -6,6 +6,7 @@ My research interests include **natural language processing** and **machine lear
 My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
 To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, trustworthiness, and safety, particularly in **representation learning theory** and **trustworthy large language models**.  
 
+Concat: hudou [AT] cuc.edu.cn
 
 
 # Research Interests

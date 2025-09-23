@@ -1,45 +1,29 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
 (\# represents corresponding author, \* denotes equal contribution)
- 
-
-## Machine Learning for NLP
 
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
-  Haonan Sheng, **Dou Hu**\#, Lingwei Wei, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
+  Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
  
-
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
-**Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
 [[Paper](https://aclanthology.org/2025.acl-long.975/)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
 
-
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. <br>
-**Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
-
-
-- **Representation Learning with Conditional Information Flow Maximization**. <br>
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) <br>
-  [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
-  
-
-- **Structured Probabilistic Coding**. <br>
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A, Oral</font>) <br>
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29142)] [[Code](https://github.com/zerohd4869/SPC)]
-
-
-- **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  <br>
-  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) <br>
-  [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
-
-
-
-## NLP Applications: Social Media Analysis and AI Safety
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
   Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
   [[Paper](https://aclanthology.org/2025.findings-acl.505/)]
- 
+  
+- **Representation Learning with Conditional Information Flow Maximization**. <br>
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) <br>
+  [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
+  
+- **Structured Probabilistic Coding**. <br>
+  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A, Oral</font>) <br>
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29142)] [[Code](https://github.com/zerohd4869/SPC)]
+
 - **Multi-stream Information Fusion Framework for Emotional Support Conversation**. \
   Yinan Bao, **Dou Hu**, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. *LREC-COLING 2024*. (<font color="red">CCF-B</font>) \
   [[Paper](https://aclanthology.org/2024.lrec-main.1046/)]
@@ -68,6 +52,10 @@
   **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo. *ICASSP 2022*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
 
+- **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  <br>
+  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) <br>
+  [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
+
 - **PALI at SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts**. \
   Mengyuan Zhou, **Dou Hu**, Mengfei Yuan, Meizhi Jin, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
@@ -76,7 +64,7 @@
   Xiyang Du, **Dou Hu**, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.112/)] 
 
-- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning And Multi-model Fusion**. \
+- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning and Multi-model Fusion**. \
   Meizhi Jin, Mengyuan Zhou, Mengfei Yuan, **Dou Hu**, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">2nd Place</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.76/)]
   
