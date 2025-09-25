@@ -1,5 +1,5 @@
-I am Dou Hu, an Assistant Professor at Communication University of China (CUC). 
-Before that, I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (UCAS) and the Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
+I am Dou Hu, an Assistant Professor at [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
+Before that, I obtained my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
 
 
 My research interests include **natural language processing** and **machine learning**. 

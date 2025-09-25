@@ -1,12 +1,12 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
-(\# represents corresponding author, \* denotes equal contribution)
+(\# represents corresponding author)
 
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
   Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
  
 - **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
-[[Paper](https://aclanthology.org/2025.acl-long.975/)] [[Code](https://github.com/zerohd4869/VIP-MTL)]
+[[Paper](https://aclanthology.org/2025.acl-long.975/)]
 
 - **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. <br>
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
@@ -53,7 +53,7 @@
   [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
 
 - **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  <br>
-  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) <br>
+  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) \
   [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
 
 - **PALI at SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts**. \
@@ -72,10 +72,6 @@
   **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.43/)]
 
-- **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021*. (<font color="red">CCF-A Chinese</font>) \
-  [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
-
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
   Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
   [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
@@ -84,10 +80,18 @@
   **Dou Hu**, Lingwei Wei, Xiaoyong Huai. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
   [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
 
+- **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021*. (<font color="red">CCF-A Chinese</font>) \
+  [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
+
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei\*, **Dou Hu**\*, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
+  Lingwei Wei, **Dou Hu**\#, Wei Zhou\#, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
 
+- **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
+  **Dou Hu**, Lingwei Wei. *SEKE 2020*. \
+  [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
+  
 
 
 
