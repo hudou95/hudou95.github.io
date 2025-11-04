@@ -15,6 +15,6 @@ Concat: hudou [AT] cuc.edu.cn
   - Probabilistic Methods & Causal Reasoning
   - Generalization & Robustness of Language Models
   - Representation Learning for Trustworthy LLMs
-- **NLP Applications: Social Media Analysis and AI Safety**
+- **NLP Applications: Social Media Analysis and LLM Safety**
   - Sentiment & Emotion Analysis
   - Content Moderation & Safety of LLMs
