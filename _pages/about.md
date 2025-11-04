@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 <span class='anchor' id='about-me'></span>
 <span id="busuanzi_value_site_uv" style="display: none;"></span>
 <span id="busuanzi_value_site_pv" style="display: none;"></span>
+-->
 
 {% include_relative includes/intro.md %}
 
