@@ -1,19 +1,20 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
 (\# represents corresponding author)
 
-- **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.  <br>
-  Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>) <br>
- 
-- **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**. <br>
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>) <br>
-[[Paper](https://aclanthology.org/2025.acl-long.975/)]
+- **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.   \
+  Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>)  \
+  [[Paper](https://aclanthology.org/2025.findings-emnlp.322/)]
 
-- **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**. <br>
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>) <br>
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
+- **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**.  \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>)  \
+  [[Paper](https://aclanthology.org/2025.acl-long.975/)]
+
+- **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**.  \
+  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>)  \
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
 
 - **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
-  Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)
+  Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)  \
   [[Paper](https://aclanthology.org/2025.findings-acl.505/)]
   
 - **Representation Learning with Conditional Information Flow Maximization**. <br>
@@ -91,16 +92,3 @@
 - **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
   **Dou Hu**, Lingwei Wei. *SEKE 2020*. \
   [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
-  
-
-
-
-
-
-
-
-
-
-
-
-  

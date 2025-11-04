@@ -1,6 +1,5 @@
 # 🎖 Honors and Awards
 - CIPS Doctoral Dissertation Incentive Program, CIPS, 2025
-- Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
 - CAS Presidential Scholarship - Special Prize, CAS, 2025
 - Best System Award, Afrisenti-SemEval 2023
 - 1st Place, Sentiment Analysis for African Languages Task, SemEval 2023
@@ -11,9 +10,8 @@
 
 # 💬 Invited Talks
 - *May 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the AI Safety", IIE, CAS.
-- *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field", Communication University of China.
-- *Dec. 2024*, Invited talk, "Information-theoretic Representation learning on Natural Language Understanding", Beijing Normal University.
-- *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", Youth Working Committee, Chinese Information Processing Society of China (CIPS).
+- *Apr. 2025*, Invited talk, "Information-theoretic Representation Learning and Its Applications in the Media Field", CUC.
+- *Jan. 2024*, Paper presentation, "Structured Probabilistic Coding", Youth Working Committee, CIPS.
 
 # 📝 Academic Services
 
