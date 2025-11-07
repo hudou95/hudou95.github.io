@@ -1,6 +1,7 @@
 # 🎖 Honors and Awards
-- CIPS Doctoral Dissertation Incentive Program, CIPS, 2025
-- CAS Presidential Scholarship - Special Prize, CAS, 2025
+- CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划, Top 10 in China), CIPS, 2025
+- Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
+- CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖), CAS, 2025
 - Best System Award, Afrisenti-SemEval 2023
 - 1st Place, Sentiment Analysis for African Languages Task, SemEval 2023
 - 1st Place, Patronizing and Condescending Language Detection Task, SemEval 2022
