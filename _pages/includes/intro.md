@@ -15,9 +15,10 @@ Feel free to reach out to hudou [AT] cuc.edu.cn if you have anything you would l
 # Research Interests
 - **Machine Learning for NLP**
   - Information-theoretic Representation Learning
-  - Probabilistic Methods & Causal Reasoning
   - Multi-task & Multi-objective Optimization
+  - Probabilistic Methods & Causal Reasoning
 - **Trustworthy LLMs**
-  - LLM Content Moderation, LLM Bias & Unfairness & Hallucination 
+  - Representation Learning for Trustworthy LLMs
+  - LLM Content Moderation, LLM Bias & Hallucination 
 - **Social Media Analysis**
   - Sentiment & Emotion Analysis, Harmful Content Detection
