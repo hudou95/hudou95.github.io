@@ -16,7 +16,8 @@ Feel free to reach out to hudou [AT] cuc.edu.cn if you have anything you would l
 - **Machine Learning for NLP**
   - Information-theoretic Representation Learning
   - Probabilistic Methods & Causal Reasoning
-  - Multi-task Learning & Multi-objective Optimization
-- **NLP Applications**
-  - Social Media Analysis: Sentiment & Emotion Analysis；Harmful Content Detection
-  - Trustworthy LLMs: LLM Content Moderation; LLM Bias & Unfairness & Hallucination 
+  - Multi-task & Multi-objective Optimization
+- **Trustworthy LLMs**
+  - LLM Content Moderation, LLM Bias & Unfairness & Hallucination 
+- **Social Media Analysis**
+  - Sentiment & Emotion Analysis, Harmful Content Detection
