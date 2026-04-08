@@ -2,7 +2,7 @@
 (\# represents corresponding author)
 
 - **Multi-Task Representation Alignment on Language Understanding: A Mutual Information Perspective**.  \
-  **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>)  \
+  **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>) 
 
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.   \
   Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>)  \
