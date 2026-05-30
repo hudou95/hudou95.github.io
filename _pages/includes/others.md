@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划, Top 10 in China), CIPS, 2025
+- CIPS Doctoral Dissertation Incentive Program (中国中文信息学会"博士学位论文激励计划"), CIPS, 2025
 - Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
 - CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖), CAS, 2025
 - Best System Award, Afrisenti-SemEval 2023
@@ -17,7 +17,7 @@
 # 📝 Academic Services
 
 - Area Chair:
-    - ACL 2025/2026, EMNLP 2025, EACL 2025, ACL Rolling Review
+    - ACL 2025/2026, EMNLP 2025/2026, EACL 2025, ACL Rolling Review
 - Conference Reviewer or Program Committee Member:
     - ICLR 2025/2026, AAAI 2025/2026, NeurIPS 2024, NAACL 2024, ACL 2023/2024, EMNLP 2023/2024 
 - Journal Reviewer:

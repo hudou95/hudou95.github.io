@@ -1,20 +1,24 @@
-I am Dou Hu, an Assistant Professor at [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
-Before that, I obtained my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
+I am Dou Hu, an Assistant Professor at the [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
+Before joining CUC, I received my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, advised by [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en).
 
 My research interests include **natural language processing** and **machine learning**. 
 My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
-To achieve this, I am currently focused on text representation learning to enhance language models' generalization, robustness, trustworthiness, and safety, particularly in **representation learning theory** and **trustworthy large language models**.  
+To achieve this, I currently focus on text representation learning to improve the generalization, robustness, trustworthiness, and safety of language models, with a particular interest in **representation learning theory** and **trustworthy large language models**.
 
-Feel free to reach out to hudou [AT] cuc.edu.cn if you have anything you would like to discuss.
-
+<font color="red">**I have openings to co-advise 1–2 Master’s and Ph.D. students with Prof. Songlin Hu at UCAS and CUC for Fall 2027 admission.**</font>  
+<font color="red">**Prospective students are welcome to contact me at hudou [AT] cuc.edu.cn.**</font>
 
 # Research Interests
+
 - **Machine Learning for NLP**
   - Information-theoretic Representation Learning
   - Multi-task & Multi-objective Optimization
   - Probabilistic Methods & Causal Reasoning
+
 - **Trustworthy LLMs**
-  - Representation Learning for Trustworthy LLMs
-  - LLM Content Moderation, LLM Bias & Hallucination 
+  - Ethics, Bias, and Fairness
+  - LLM Content Moderation
+
 - **Social Media Analysis**
-  - Sentiment & Emotion Analysis, Harmful Content Detection
+  - Sentiment & Emotion Analysis
+  - Harmful Content Detection

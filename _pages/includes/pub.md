@@ -1,8 +1,17 @@
 # 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
 (\# represents corresponding author)
 
+
+
+## 2026
+
+- **Geometry-aware Test-Time Adaptation on Graphs**.  \
+  Lingwei Wei, **Dou Hu**\#, Li Sun\#, Chengze Li, Wei Zhou, Songlin Hu, Philip S. Yu. *KDD 2026*. (<font color="red">CCF-A</font>) 
+
 - **Multi-Task Representation Alignment on Language Understanding: A Mutual Information Perspective**.  \
   **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>) 
+
+## 2025
 
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.   \
   Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>)  \
@@ -20,6 +29,8 @@
   Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)  \
   [[Paper](https://aclanthology.org/2025.findings-acl.505/)]
   
+## 2024
+
 - **Representation Learning with Conditional Information Flow Maximization**. <br>
   **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) <br>
   [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
@@ -40,6 +51,8 @@
   Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu. *TNNLS 2024*. (<font color="red">CCF-B, SCI-Q1</font>) \
   [[Paper](https://ieeexplore.ieee.org/document/9837882)]
 
+## 2023
+
 - **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
   **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2023*. (<font color="red">CCF-A</font>) \
   [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
@@ -52,6 +65,8 @@
   Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *TMM 2023*. (<font color="red">CCF-B, SCI-Q1</font>) \
   [[Paper](https://ieeexplore.ieee.org/document/10261246)]
   
+## 2022
+
 - **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
   **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo. *ICASSP 2022*. (<font color="red">CCF-B</font>) \
   [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
@@ -76,6 +91,8 @@
   **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
   [[Paper](https://aclanthology.org/2022.semeval-1.43/)]
 
+## 2021
+
 - **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
   Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
   [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
@@ -87,6 +104,8 @@
 - **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
   **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021*. (<font color="red">CCF-A Chinese</font>) \
   [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
+
+## 2020
 
 - **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
   Lingwei Wei, **Dou Hu**\#, Wei Zhou\#, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
