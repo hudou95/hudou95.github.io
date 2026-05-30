@@ -5,10 +5,6 @@ My research interests include **natural language processing** and **machine lear
 My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
 To achieve this, I currently focus on text representation learning to improve the generalization, robustness, trustworthiness, and safety of language models, with a particular interest in **representation learning theory** and **trustworthy large language models**.
 
-<span style="color: red; font-weight: bold;">
-I have openings to co-advise 1–2 Master’s and Ph.D. students with Prof. Songlin Hu at UCAS and CUC for Fall 2027 admission. Prospective students are welcome to contact me at hudou [AT] cuc.edu.cn.
-</span>
-
 <strong><font color="red">
 I have openings to co-advise 1–2 Master’s and Ph.D. students with Prof. Songlin Hu at UCAS and CUC for Fall 2027 admission. Prospective students are welcome to contact me at hudou [AT] cuc.edu.cn.
 </font></strong>
