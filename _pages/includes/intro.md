@@ -20,6 +20,6 @@ I have openings to co-advise 1–2 Master’s and Ph.D. students with Prof. Song
   - Ethics, Bias, and Fairness
   - LLM Content Moderation
 
-- **Social Media Analysis**
+- **Natural Language Processing**
   - Sentiment & Emotion Analysis
   - Harmful Content Detection
