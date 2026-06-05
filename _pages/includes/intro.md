@@ -27,6 +27,6 @@ To achieve this, I currently focus on text representation learning to improve th
   - Ethics, Bias, and Fairness
   - LLM Content Moderation
 
-- **Social Media Analysis**
+- **Natural Language Processing**
   - Sentiment & Emotion Analysis
   - Harmful Content Detection
