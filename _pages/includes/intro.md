@@ -13,7 +13,7 @@ To achieve this, I currently focus on text representation learning to improve th
 长期担任ACL、EMNLP、EACL等国际会议的领域主席。
 
 <strong><font color="red">
-我将与[虎嵩林教授](https://people.ucas.ac.cn/~husonglin?language=en)共同指导1–2名硕士及博士生，招收时间为2027年秋季，招生院校为中国科学院大学和中国传媒大学。欢迎有意向的学生通过 hudou [AT] cuc.edu.cn 联系我。
+我将与中国科学院大学虎嵩林教授共同指导1–2名硕士及博士生，招收时间为2027年秋季，招生院校为中国科学院大学和中国传媒大学。欢迎有意向的学生通过 hudou [AT] cuc.edu.cn 联系我。
 </font></strong>
 
 # Research Interests
