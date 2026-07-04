@@ -9,7 +9,8 @@
   Lingwei Wei, **Dou Hu**\#, Li Sun\#, Chengze Li, Wei Zhou, Songlin Hu, Philip S. Yu. *KDD 2026*. (<font color="red">CCF-A</font>) 
 
 - **Multi-Task Representation Alignment on Language Understanding: A Mutual Information Perspective**.  \
-  **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>) 
+  **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>) \
+  [[Paper](https://aclanthology.org/2026.acl-long.2120/)]
 
 ## 2025
 
