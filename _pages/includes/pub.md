@@ -5,6 +5,11 @@
 
 ## 2026
 
+
+- **Token-level Adaptive Weighting via Implicit Rewards for Inference-time Multi-objective Alignment**.  \
+  **Dou Hu**, Lingwei Wei, Peiran Xu, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *Findings of EMNLP 2026*. (<font color="red">CCF-B Findings</font>) 
+
+
 - **Geometry-aware Test-Time Adaptation on Graphs**.  \
   Lingwei Wei, **Dou Hu**\#, Li Sun\#, Chengze Li, Wei Zhou, Songlin Hu, Philip S. Yu. *KDD 2026*. (<font color="red">CCF-A</font>) 
 

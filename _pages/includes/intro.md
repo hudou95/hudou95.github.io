@@ -1,4 +1,4 @@
-I am Dou Hu, an Assistant Professor at the [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
+I am Dou Hu, a Research Assistant Professor at the [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
 Before joining CUC, I received my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, advised by [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en).
 
 My research interests include **natural language processing** and **machine learning**. 
@@ -8,8 +8,8 @@ To achieve this, I currently focus on text representation learning to improve th
 
 
 胡斗，中国传媒大学教师，研究方向是自然语言处理与大语言模型，2025年6月博士毕业于中国科学院信息工程研究所和中国科学院大学。
-近五年来，聚焦表示学习理论及其在社会媒体和大模型安全领域的应用，以第一或通讯作者身份在ACL、AAAI、EMNLP等国内外会议/期刊发表论文18篇（含第一作者14篇），包括CCF-A/清华A类论文13篇（含第一作者9篇），引用量达千余次。
-曾获2025年中国中文信息学会"博士学位论文激励计划" (全国共10名)、2023年Afrisenti-SemEval国际最佳系统奖（获奖比例<0.5%, 第一完成人）、2025年中国科学院院长特别奖（全院共80名）、4项国际语义测评竞赛冠军（含第一完成人2项）等。
+近五年来，聚焦表示学习理论及其在社会媒体和大模型安全领域的应用，以第一或通讯作者身份在ACL、AAAI、EMNLP等国内外会议/期刊发表论文19篇（含第一作者15篇），包括CCF-A/清华A类论文14篇（含第一作者10篇），引用量达千余次。
+曾获2025年中国中文信息学会"博士学位论文激励计划" (全国共10名)、2023年Afrisenti-SemEval国际最佳系统奖（获奖比例<0.5%, 第一完成人）、2025年中国科学院院长特别奖（全院共80名）、4项国际顶会竞赛冠军（含第一完成人2项）等。
 长期担任ACL、EMNLP、EACL等国际会议的领域主席。
 
 
