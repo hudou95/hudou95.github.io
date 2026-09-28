@@ -5,7 +5,6 @@
 
 ## 2026
 
-
 - **Token-level Adaptive Weighting via Implicit Rewards for Inference-time Multi-objective Alignment**.  \
   **Dou Hu**, Lingwei Wei, Peiran Xu, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *Findings of EMNLP 2026*. (<font color="red">CCF-B Findings</font>) 
 
