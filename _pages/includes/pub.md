@@ -16,6 +16,7 @@
   **Dou Hu**, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *ACL 2026*. (<font color="red">CCF-A</font>) \
   [[Paper](https://aclanthology.org/2026.acl-long.2120/)]
 
+
 ## 2025
 
 - **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.   \
