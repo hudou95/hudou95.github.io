@@ -14,7 +14,7 @@ To achieve this, I currently focus on text representation learning to improve th
 
 
 <font color="red">
-我将与中国科学院大学虎嵩林教授共同指导1–2名硕士及博士生，招收时间为2027年秋季，招生院校为中国科学院大学和中国传媒大学。欢迎有意向的学生通过 hudou [AT] cuc.edu.cn 联系。
+我与中国科学院大学虎嵩林教授进行长期联合招生，招收时间为2027年秋季及以后，招生院校为中国传媒大学（每年博士生2名）和中国科学院大学（每年硕士生1名），招生方向为大模型基础研究、大模型与智能体安全等。欢迎有意向的学生通过 hudou [AT] cuc.edu.cn 联系。
 </font>
 
 
