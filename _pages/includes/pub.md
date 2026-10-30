@@ -5,6 +5,13 @@
 
 ## 2026
 
+
+- **On-Policy Representation Alignment in Preference Optimization**.  \
+  **Dou Hu**, Lingwei Wei, Biying Yang, Jiamin Li, Peiran Xu, Hongjiang Xiao, Songlin Hu, Philip S. Yu, Yuan Zhang. *Under review*.
+  
+- **Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability**.  \
+  Lingwei Wei, **Dou Hu**\#, Wei Zhou, Songlin Hu, Philip S. Yu. *Under review*.
+
 - **Token-level Adaptive Weighting via Implicit Rewards for Inference-time Multi-objective Alignment**.  \
   **Dou Hu**, Lingwei Wei, Peiran Xu, Hongjiang Xiao, Songlin Hu, Yuan Zhang. *Findings of EMNLP 2026*. (<font color="red">CCF-B Findings</font>) \
   [[Paper](https://aclanthology.org/2026.findings-emnlp.1928/)]
