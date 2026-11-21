@@ -1,8 +1,8 @@
 # 🎖 Honors and Awards
-- CIPS-SMP Highlight Poster Award (全国社会媒体处理大会亮点海报奖), CIPS-SMP 2026
+- CIPS-SMP Highlight Poster Award (全国社会媒体处理大会"亮点海报奖"), CIPS-SMP 2026
 - CIPS Doctoral Dissertation Incentive Program (中国中文信息学会"博士学位论文激励计划"), CIPS, 2025
 - Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2025
-- CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖), CAS, 2025
+- CAS Presidential Scholarship - Special Prize (中国科学院"院长特别奖"), CAS, 2025
 - Best System Award, Afrisenti-SemEval 2023
 - 1st Place, Sentiment Analysis for African Languages Task, SemEval 2023
 - 1st Place, Patronizing and Condescending Language Detection Task, SemEval 2022
@@ -20,7 +20,7 @@
 - Area Chair:
     - ACL 2025/2026, EMNLP 2025/2026, NAACL 2026, EACL 2025/2026, ACL Rolling Review
 - Conference Reviewer or Program Committee Member:
-    - ICLR 2026/2027, AAAI 2026/2027, NeurIPS 2024, NAACL 2024, ACL 2023/2024, EMNLP 2023/2024 
+    - ICLR 2026/2027, AAAI 2026/2027, NeurIPS 2024
 - Journal Reviewer:
     - Engineering Applications of Artificial Intelligence (EAAI)
     - IEEE Transactions on Multimedia (TMM)
