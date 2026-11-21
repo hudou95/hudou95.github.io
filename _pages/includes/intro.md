@@ -1,20 +1,18 @@
 I am Dou Hu, a Research Assistant Professor at the [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
 Before joining CUC, I received my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, advised by [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en).
 
-My research interests include **natural language processing** and **machine learning**. 
-My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
-To achieve this, I currently focus on text representation learning to improve the generalization, robustness, and trustworthiness of language models, with a particular interest in **representation learning theory** and **trustworthy large language models**.
-
-
+My research interests lie in **natural language processing** and **machine learning**, with a focus on **representation learning for NLP**.
+My goal is to improve the generalization, robustness, and trustworthiness of language models, particularly for applications in **trustworthy LLMs and social media**.
 
 胡斗，中国传媒大学教师，研究方向是自然语言处理与大语言模型，2025年6月博士毕业于中国科学院信息工程研究所和中国科学院大学。
-近五年来，聚焦表示学习理论及其在社会媒体和大模型安全领域的应用，以第一或通讯作者身份在ACL、AAAI、EMNLP等国内外会议/期刊发表论文19篇（含第一作者15篇），包括CCF-A/清华A类论文14篇（含第一作者10篇），引用量达千余次。
+近五年来，聚焦表示学习理论及其在大语言模型和社会媒体领域的应用，以第一或通讯作者身份在ACL、AAAI、EMNLP等国内外会议/期刊发表论文19篇（含第一作者15篇），包括CCF-A/清华A类论文14篇（含第一作者10篇），引用量达千余次。
 曾获2025年中国中文信息学会"博士学位论文激励计划" (全国共10名)、2025年中国科学院院长特别奖（全院共80名）、2023年Afrisenti-SemEval会议最佳系统奖（获奖比例<0.5%, 第一完成人）、2026年CIPS-SMP会议亮点海报奖，4项国际顶会竞赛冠军（含第一完成人2项）等。
 长期担任ACL、EMNLP、EACL等国际会议的领域主席。
 
 
 <font color="red">
-我与中国科学院大学虎嵩林教授进行长期联合招生，招收时间为2027年秋季及以后，招生院校为中国传媒大学（每年博士生2名）和中国科学院大学（每年硕博1-2名），招生方向为大模型基础研究、大模型与智能体安全等。欢迎有意向的学生通过 hudou [AT] cuc.edu.cn 联系。
+我与中国科学院大学虎嵩林教授长期联合招生，2027年秋季起每年招收中国传媒大学博士生约2名、中国科学院大学硕博生约1名。研究方向为大模型基础研究、大模型与智能体安全等。
+欢迎有意向的同学通过 hudou [AT] cuc.edu.cn 联系。
 </font>
 
 
@@ -22,15 +20,16 @@ To achieve this, I currently focus on text representation learning to improve th
 
 - **Machine Learning for NLP**
   - **Information-theoretic Representation Learning**
+  - Representation & Preference Alignment in LLMs
   - Multi-task & Multi-objective Optimization
   - Probabilistic Methods & Causal Reasoning
 
 - **Trustworthy LLMs**
-  - **Preference Optimization and Alignment**
-  - Ethics, Bias, and Fairness
-  - LLM Content Moderation
-
+  - **Risk Detection & Mitigation in LLMs & AI Agents**
+  - Human Value Evaluation & Alignment
+  - Ethics, Bias & Fairness
 
 - **Social Media Analysis**
-  - Sentiment & Emotion Analysis
-  - Harmful Content Detection
+  - Sentiment, Emotion & Stance Analysis
+  - Harmful Content & Misinformation Detection
+
