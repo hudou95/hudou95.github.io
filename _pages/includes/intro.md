@@ -11,10 +11,9 @@ My goal is to improve the generalization, robustness, and trustworthiness of lan
 
 
 <font color="red">
-我与中国科学院大学虎嵩林教授长期联合招生，2027年秋季起每年招收中国传媒大学博士生约2名、中国科学院大学硕博生约1名。研究方向为大模型基础研究、大模型与智能体安全等。
+我与中国科学院大学虎嵩林教授长期联合招生，招收时间为2027年秋季及以后，招生院校为中国传媒大学（每年博士生2名、硕士生1名）和中国科学院大学（每年硕博生1～2名）。研究方向为大模型基础研究、大模型与智能体安全等。
 欢迎有意向的同学通过 hudou [AT] cuc.edu.cn 联系。
 </font>
-
 
 # Research Interests
 
